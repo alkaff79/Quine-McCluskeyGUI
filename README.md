@@ -35,7 +35,7 @@ However,the project involved writing code using MATLAB to provide the simplest B
 
 
 - Test the code with solved example:
-- 
+  
 f(A,B,C,D)= m(4,8,10,11,12,15)+d(9,14).
 
 the answer is:
