@@ -4,13 +4,9 @@ The Quine-McCluskey method is a technique used in digital logic design and Boole
 Boolean functions can be represented in truth tables or algebraic forms, such as Sum of Products (SOP) or Product of Sums (POS). The goal of the Quine-McCluskey method is to simplify these functions to their minimal form, reducing the number of terms and variables without changing the function's behavior.
 - Steps:
 1.Implicant Generation: Start by listing all the minterms (or maxterms) for the given function in binary form.
-
 2.Grouping: Group the minterms based on the number of 1s in their binary representations. This step creates groups of minterms having similar patterns with differing only in one variable position.
-
 3.Finding Prime Implicants: Compare the groups and identify pairs that differ by only one variable. Combine these pairs to form new groups. Repeat this process until no further combinations can be made.
-
 4.Essential Prime Implicants: Identify the prime implicants that cover all the minterms in the function. These are the essential prime implicants necessary to represent the function.
-
 5.Selecting Minimum Terms: Choose a combination of essential prime implicants that cover all the minterms. This combination represents the simplified form of the Boolean function.
 
 - Advantages:
@@ -26,4 +22,4 @@ Optimality: While Quine-McCluskey provides a minimal solution, for extremely lar
 
 However,the project involved writing code using MATLAB to provide the simplest Boolean expression for 4 variables. The team designed a graphical interface using MATLAB to allow users to input the required data for calculation. One of the notable features of our project is its capability to handle 26 variables and more!
 
-![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/811de1de-f910-437b-b2c7-989651f72b9a)
+![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/deaf43fa-5016-4008-9944-fa08aa48eacb)
