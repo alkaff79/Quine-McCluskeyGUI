@@ -33,4 +33,21 @@ However,the project involved writing code using MATLAB to provide the simplest B
 ![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/deaf43fa-5016-4008-9944-fa08aa48eacb)
 
 
-{\displaystyle f(A,B,C,D)=\sum m(4,8,10,11,12,15)+d(9,14).\,}
+- Test the code with solved example:
+f(A,B,C,D)= m(4,8,10,11,12,15)+d(9,14).
+the answer is:
+![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/9a01f611-3e50-4909-9de7-38394bc2525a)
+  from  matlab:
+
+![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/71af7fe3-b423-468d-9e33-dc9c5057fb3d)
+
+
+![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/2bbce7c6-03fa-4896-9c18-0baa64255138)
+
+From the command window:
+![image](https://github.com/alkaff79/Quine-McCluskeyGUI/assets/130121869/3f94920a-8d57-441f-b7fb-79d1e7d2e1a7)
+
+
+
+
+
